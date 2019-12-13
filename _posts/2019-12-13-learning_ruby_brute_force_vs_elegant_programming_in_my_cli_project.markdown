@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "Learning Ruby : Brute force vs elegant programming in my CLI project"
-date:       2019-12-13 15:36:51 +0000
+date:       2019-12-13 10:36:52 -0500
 permalink:  learning_ruby_brute_force_vs_elegant_programming_in_my_cli_project
 ---
 
 Having some experience in OOP (Object-Oriented Programming) from C++, Java, the core concepts are translated fairly easily, but the implementation is always a different challenge. Computing today is fairly "cheap" in terms of cost processing and most internet speeds are far exceptional, but that doesn't mean we should ever just churn a bunch of code together just to make it work, at least not for the end result. I learned a few things along the way that made me understand key concepts deeper, and I made it work but I always asked myself for the first time, "what could I do better?" Let's start from the beginning. 
 
-  <P ALIGN=Center>![](http://)![](http://media.giphy.com/media/3o72FieLG07hheBu0M/giphy.gif)
+  <P ALIGN=Center>![](http://)![](http://media.giphy.com/media/3o72FieLG07hheBu0M/giphy.gif) </P>
 
 
 The way I've been coding is by facing that battle head on and just going at it, through small, frustrating steps that eventually lead to that victory, but just like John Travolta above, I end up looking around  confused, "why is that bug here and why did I choose to implement something in this way?! What was I thinking of course it was bound to break!" I mean its always worked right? Whats the issue? Well the main issues are from a different set of eyes, is my code easy to understand and can someone appreciate it as a "story" and not a puzzle. </p>
