@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails vs Sinatra. Learned alot about how I learn  "
-date:       2020-05-01 00:53:06 +0000
+date:       2020-04-30 20:53:07 -0400
 permalink:  rails_vs_sinatra_learned_alot_about_how_i_learn
 ---
 
