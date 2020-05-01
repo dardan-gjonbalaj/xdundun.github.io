@@ -11,7 +11,8 @@ Sinatra to me was really simple, I never really felt stuck or lagged behind any 
 <iframe src="https://giphy.com/embed/W9lzJDwciz6bS" width="480" height="411" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Instead, what happened was I got too comfortable and alot of the things that are "rails magic" that are actually really helpful ended up leaving me like 
-<iframe src="https://gifer.com/embed/BEAI" width=480 height=270.000 frameBorder="0" allowFullScreen></iframe>
+
+<iframe src="https://gifer.com/embed/BEAI" width=480 height=270.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
 RESTful routes are nice, but understanding when you want a resource and specific ones are going to be very helpful when it comes to your paths. Alot of times, you might be better off defining your own for special cases. hint: `rails routes` is your friend for this!
 
